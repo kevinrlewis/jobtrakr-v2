@@ -1,0 +1,19 @@
+{
+  "name": "jobtrakr",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^1.0.0",
+    "@auth0/nextjs-auth0": "^0.16.0",
+    "@material-ui/core": "^4.11.0",
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "use-auth0-hooks": "^0.7.0"
+  }
+}
