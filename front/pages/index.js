@@ -24,9 +24,7 @@ class Home extends React.Component {
                     <Container>
                         <Grid container>
                             <Grid item xs={6}>
-                                <Button>
-                                    Login
-                                </Button>
+                                <a href="/api/login">Login</a>
                             </Grid>
                         </Grid>
                     </Container>
